@@ -1,5 +1,6 @@
 # source for keypad info https://tutorials-raspberrypi.com/connecz-raspberry-pi-kecpad-code-lock/
-# keypad https://www.amazon.com/-/es/FlashTree-Teclado-Arduino-unidades-Matrix/dp/B07VZV1H42/ref=sr_1_8?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=matrix+keypad+3-4&qid=1581519536&sr=8-8 
+# keypad 1 https://www.amazon.com/-/es/FlashTree-Teclado-Arduino-unidades-Matrix/dp/B07VZV1H42/ref=sr_1_8?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=matrix+keypad+3-4&qid=1581519536&sr=8-8 
+# keypad 2 https://www.amazon.com/Numeric-Sunreed-Portable-Desktop-Computer/dp/B01N9SUH9Z/ref=asc_df_B01N9SUH9Z/?tag=hyprod-20&linkCode=df0&hvadid=312727440900&hvpos=1o8&hvnetw=g&hvrand=9255476657117458018&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008471&hvtargid=pla-584104056123&psc=1
 #gpio 24 pin 18 and gpio 22 pin 15 are for alarm
 import time
 import RPi.GPIO as GPIO
